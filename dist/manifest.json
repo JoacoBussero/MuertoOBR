@@ -1,0 +1,16 @@
+{
+  "name": "Estado Muerto",
+  "version": "1.0.0",
+  "description": "Extensión para marcar objetos como muertos en Owlbear Rodeo.",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite"
+  },
+  "author": "Tu nombre",
+  "license": "MIT",
+  "icon": "https://example.com/icon.png",
+  "permissions": ["scene_items"],
+  "url": "https://joacobussero.github.io/MuertoOBR/",
+  "update_url": "https://joacobussero.github.io/MuertoOBR/manifest.json"
+}
