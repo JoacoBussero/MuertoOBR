@@ -1,0 +1,8 @@
+{
+  "name": "Estado Muerto",
+  "description": "Pone a los tokens en escala de grises para marcar que están muertos",
+  "entry": "index.html",
+  "version": "1.0.0",
+  "contexts": ["RODEO"],
+  "scopes": ["READ", "WRITE"]
+}
