@@ -1,8 +1,12 @@
 {
   "name": "Estado Muerto",
-  "id": "com.joacobussero.muertoobr",
   "version": "1.0.0",
-  "description": "Extensión para marcar tokens como muertos aplicando un filtro en escala de grises.",
-  "entry": "index.html",
-  "permissions": ["SCENE_ITEM"]
+  "description": "Extensión para marcar objetos como muertos y aplicar filtro en escala de grises.",
+  "author": "Tu nombre o tu equipo",
+  "manifest_version": 2,
+  "main": "src/main.js",
+  "scripts": {
+    "start": "vite dev",
+    "build": "vite build"
+  }
 }
