@@ -1,9 +1,8 @@
 {
-  "id": "com.example.estado-muerto",
-  "title": "Estado Muerto",
-  "description": "Aplica un filtro en escala de grises a un token marcado como muerto.",
+  "name": "Estado Muerto",
+  "id": "com.joacobussero.muertoobr",
   "version": "1.0.0",
-  "authors": ["Joaco Bussero"],
-  "url": "https://joacobussero.github.io/MuertoOBR/",
-  "main": "index.js"
+  "description": "Extensión para marcar tokens como muertos aplicando un filtro en escala de grises.",
+  "entry": "index.html",
+  "permissions": ["SCENE_ITEM"]
 }
